@@ -4,7 +4,7 @@
 > designed as a development/breakout board with onboard power regulation, 
 > USB connectivity, and full GPIO header access.
 
-![PCB 3D View](images/3d-top.png)
+![PCB 3D View](images/3D-Top.png)
 
 ## Overview
 This board was designed to provide a ready-to-use platform for the STM32F103C8T6 
@@ -54,15 +54,16 @@ dual 20x1 GPIO breakout headers, an SWD debug interface, reset button, and statu
 - Red SMD LEDs
 
 ## Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
+![Schematic 2](images/Schematic 2.png)
 
 ## PCB Layout
-![Top Layer](images/top-layer.png)
-![Bottom Layer](images/bottom-layer.png)
+![Top Layer](images/Top-Layer.png)
+![Bottom Layer](images/Bottom-Layer.png)
 
 ## 3D Render
-![3D Top](images/3d-top.png)
-![3D Bottom](images/3d-bottom.png)
+![3D Top](images/3D-Top.png)
+![3D Bottom](images/3D-Bottom.png)
 
 ## Design Process
 1. Created component symbols and footprints in Altium library
