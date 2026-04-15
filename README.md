@@ -55,7 +55,7 @@ dual 20x1 GPIO breakout headers, an SWD debug interface, reset button, and statu
 
 ## Schematic
 ![Schematic](images/Schematic.png)
-![Schematic 2](images/Schematic 2.png)
+![Schematic 2](images/Schematic-2.png)
 
 ## PCB Layout
 ![Top Layer](images/Top-Layer.png)
